@@ -25,7 +25,7 @@ const displayData = (data) => {
 
     console.log(data)
     let div = document.createElement('div')
-   
+
 
     div.innerHTML = `
     <div class="des space-y-5">
